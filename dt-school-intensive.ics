@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DT School//Intensive//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DT School
+BEGIN:VEVENT
+UID:dtschool-intensive-2026-pack@designawesome.ru
+DTSTAMP:20261011T075645Z
+DTSTART:20261020T160000Z
+DTEND:20261020T180000Z
+SUMMARY:Упаковка кандидата · DT School
+DESCRIPTION:Портфолио\, LinkedIn и презентация для 
+ интервью: как упаковать опыт\, чтобы рекр
+ утер и нанимающий менеджер сразу увидел
+ и вашу ценность.\n\nНедельный интенсив дл
+ я продуктовых дизайнеров от DT School.\nСсылк
+ а на Zoom будет в закрытом канале интенсив
+ а.
+LOCATION:Zoom
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Упаковка кандидата · DT School
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Упаковка кандидата · DT School
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-intensive-2026-review@designawesome.ru
+DTSTAMP:20261011T075645Z
+DTSTART:20261021T160000Z
+DTEND:20261021T180000Z
+SUMMARY:Разборы портфолио участников · DT School
+DESCRIPTION:Смотрим портфолио участников в пр
+ ямом эфире: что работает\, что мешает про
+ йти скрининг и как это исправить.\n\nНедел
+ ьный интенсив для продуктовых дизайнеро
+ в от DT School.\nСсылка на Zoom будет в закрытом 
+ канале интенсива.
+LOCATION:Zoom
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Разборы портфолио участников · DT Sc
+ hool
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Разборы портфолио участников · DT Sc
+ hool
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-intensive-2026-next@designawesome.ru
+DTSTAMP:20261011T075645Z
+DTSTART:20261022T160000Z
+DTEND:20261022T180000Z
+SUMMARY:Портфолио готово\, что теперь делать?
+  · DT School
+DESCRIPTION:Где искать вакансии\, как откликат
+ ься\, чтобы получать ответы\, и как выстро
+ ить поиск работы как систему.\n\nНедельны
+ й интенсив для продуктовых дизайнеров о
+ т DT School.\nСсылка на Zoom будет в закрытом ка
+ нале интенсива.
+LOCATION:Zoom
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Портфолио готово\, что теперь дела
+ ть? · DT School
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Портфолио готово\, что теперь дела
+ ть? · DT School
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-intensive-2026-qa@designawesome.ru
+DTSTAMP:20261011T075645Z
+DTSTART:20261024T160000Z
+DTEND:20261024T180000Z
+SUMMARY:Вопрос/ответ · DT School
+DESCRIPTION:Отвечаем на ваши вопросы о портфол
+ ио\, поиске работы и собеседованиях.\n\nНе
+ дельный интенсив для продуктовых дизайн
+ еров от DT School.\nСсылка на Zoom будет в закры
+ том канале интенсива.
+LOCATION:Zoom
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Вопрос/ответ · DT School
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Вопрос/ответ · DT School
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
