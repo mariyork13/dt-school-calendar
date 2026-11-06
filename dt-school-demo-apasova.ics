@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DT School//Demo Days Apasova//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DT School · Демо-дни с Ангелиной Апасо
+ вой
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d1@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261112T160000Z
+DTEND:20261112T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d2@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261119T160000Z
+DTEND:20261119T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d3@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261126T160000Z
+DTEND:20261126T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d4@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261203T160000Z
+DTEND:20261203T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d5@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261210T160000Z
+DTEND:20261210T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d6@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261217T160000Z
+DTEND:20261217T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d7@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20261224T160000Z
+DTEND:20261224T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d8@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20270114T160000Z
+DTEND:20270114T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d9@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20270121T160000Z
+DTEND:20270121T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d10@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20270128T160000Z
+DTEND:20270128T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d11@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20270204T160000Z
+DTEND:20270204T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d12@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20270211T160000Z
+DTEND:20270211T180000Z
+SUMMARY:Демо-день · Мобильный и веб-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Демо-день · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-demo-apasova-2026-d13@designawesome.ru
+DTSTAMP:20261106T165929Z
+SEQUENCE:1
+DTSTART:20270218T160000Z
+DTEND:20270218T180000Z
+SUMMARY:Финальный демо-день · Мобильный и ве
+ б-трек
+DESCRIPTION:Демо-дни с Ангелиной Апасовой\, Моб
+ ильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Финальный демо-день · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Финальный демо-день · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
