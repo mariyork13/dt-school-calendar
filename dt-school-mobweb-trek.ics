@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DT School//Mobile Web Track//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DT School · Мобильный и веб-трек
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-ws@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+SUMMARY:Воркшоп «Dribbble: визуальные приёмы и н
+ асмотренность» · Мобильный и веб-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Воркшоп «Dribbble: визуальные приёмы и
+  насмотренность» · Мобильный и веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Воркшоп «Dribbble: визуальные приёмы и
+  насмотренность» · Мобильный и веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r1@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261117T160000Z
+DTEND:20261117T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r2@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261124T160000Z
+DTEND:20261124T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r3@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261201T160000Z
+DTEND:20261201T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r4@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261208T160000Z
+DTEND:20261208T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r5@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261215T160000Z
+DTEND:20261215T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r6@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20261222T160000Z
+DTEND:20261222T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r7@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20270112T160000Z
+DTEND:20270112T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r8@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20270119T160000Z
+DTEND:20270119T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r9@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20270126T160000Z
+DTEND:20270126T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r10@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20270202T160000Z
+DTEND:20270202T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r11@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20270209T160000Z
+DTEND:20270209T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dtschool-mobweb-2026-r12@designawesome.ru
+DTSTAMP:20261106T090032Z
+SEQUENCE:1
+DTSTART:20270216T160000Z
+DTEND:20270216T180000Z
+SUMMARY:Общий разбор потока · Мобильный и ве
+ б-трек
+DESCRIPTION:Мобильный и веб-трек DT School.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Общий разбор потока · Мобильный и 
+ веб-трек
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
